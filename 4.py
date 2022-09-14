@@ -1,5 +1,3 @@
-#Nome: MICKAEL MONTEIRO DA ROSA
-#RU :   4233306
 
 dado = {'id':'','nome':'','fabricante':'','valor':''}
 lista_items = []
